@@ -13,7 +13,7 @@
             <sdk:archive>
                 <sdk:size>20659649</sdk:size>
                 <sdk:checksum type='sha1'>d41845591d39032f4ff011b5ad599975752ff39b</sdk:checksum>
-                <sdk:url>https://github.com/kuroishi0102/aosp_xqbt52.git/sdk-repo-linux-system-images-eng.ojiro.zip</sdk:url>
+                <sdk:url>https://github.com/kuroishi0102/aosp_xqbt52/blob/8d5d21bfa3841bd6b6a5ba1929f52314dae24646/sdk-repo-linux-system-images-eng.ojiro.zip</sdk:url>
         <sdk:host-os>linux</sdk:host-os>
             </sdk:archive>
         </sdk:archives>
